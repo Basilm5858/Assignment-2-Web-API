@@ -1,0 +1,444 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CINEMA MANAGEMENT SYSTEM",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Genre/EndPoint1": {
+      "get": {
+        "tags": [
+          "Genre"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Genre/EndPoint2": {
+      "get": {
+        "tags": [
+          "Genre"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Genre/EndPoint3": {
+      "get": {
+        "tags": [
+          "Genre"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateGenreDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateGenreDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateGenreDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Genre/EndPoint4": {
+      "get": {
+        "tags": [
+          "Genre"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateGenreDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateGenreDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateGenreDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Genre/EndPoint5": {
+      "get": {
+        "tags": [
+          "Genre"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Genre/EndPoint6": {
+      "get": {
+        "tags": [
+          "Genre"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Movie/EndPoint1": {
+      "get": {
+        "tags": [
+          "Movie"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Movie/EndPoint2": {
+      "get": {
+        "tags": [
+          "Movie"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Movie/EndPoint3": {
+      "post": {
+        "tags": [
+          "Movie"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateMovieDTOEndPoint3"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateMovieDTOEndPoint3"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateMovieDTOEndPoint3"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Movie/EndPoint4": {
+      "put": {
+        "tags": [
+          "Movie"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateMovieDTOEndPoint4"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateMovieDTOEndPoint4"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateMovieDTOEndPoint4"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Movie/EndPoint5": {
+      "delete": {
+        "tags": [
+          "Movie"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Movie/EndPoint6": {
+      "get": {
+        "tags": [
+          "Movie"
+        ],
+        "parameters": [
+          {
+            "name": "title",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CreateGenreDTO": {
+        "required": [
+          "name"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateMovieDTOEndPoint3": {
+        "required": [
+          "director",
+          "title"
+        ],
+        "type": "object",
+        "properties": {
+          "title": {
+            "maxLength": 200,
+            "minLength": 1,
+            "type": "string"
+          },
+          "director": {
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
+          },
+          "duration": {
+            "maximum": 300,
+            "minimum": 30,
+            "type": "integer",
+            "format": "int32"
+          },
+          "releaseYear": {
+            "maximum": 2026,
+            "minimum": 1950,
+            "type": "integer",
+            "format": "int32"
+          },
+          "rating": {
+            "maximum": 10,
+            "minimum": 0,
+            "type": "number",
+            "format": "double"
+          },
+          "ticketPrice": {
+            "minimum": 0.01,
+            "type": "number",
+            "format": "double"
+          },
+          "availableSeats": {
+            "maximum": 2147483647,
+            "minimum": 0,
+            "type": "integer",
+            "format": "int32"
+          },
+          "genreId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateGenreDTO": {
+        "required": [
+          "name"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateMovieDTOEndPoint4": {
+        "required": [
+          "director",
+          "title"
+        ],
+        "type": "object",
+        "properties": {
+          "title": {
+            "maxLength": 200,
+            "minLength": 1,
+            "type": "string"
+          },
+          "director": {
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
+          },
+          "duration": {
+            "maximum": 300,
+            "minimum": 30,
+            "type": "integer",
+            "format": "int32"
+          },
+          "releaseYear": {
+            "maximum": 2026,
+            "minimum": 1950,
+            "type": "integer",
+            "format": "int32"
+          },
+          "rating": {
+            "maximum": 10,
+            "minimum": 0,
+            "type": "number",
+            "format": "double"
+          },
+          "ticketPrice": {
+            "minimum": 0.01,
+            "type": "number",
+            "format": "double"
+          },
+          "availableSeats": {
+            "maximum": 2147483647,
+            "minimum": 0,
+            "type": "integer",
+            "format": "int32"
+          },
+          "genreId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

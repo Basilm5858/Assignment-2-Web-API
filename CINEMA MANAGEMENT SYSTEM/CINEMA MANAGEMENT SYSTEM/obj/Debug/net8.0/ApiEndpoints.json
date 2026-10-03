@@ -1,0 +1,186 @@
+[
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.GenreController",
+    "Method": "GetAll",
+    "RelativePath": "api/Genre/EndPoint1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.GenreController",
+    "Method": "GetById",
+    "RelativePath": "api/Genre/EndPoint2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.GenreController",
+    "Method": "Create",
+    "RelativePath": "api/Genre/EndPoint3",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CINEMA_MANAGEMENT_SYSTEM.DTOs.CreateGenreDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.GenreController",
+    "Method": "Update",
+    "RelativePath": "api/Genre/EndPoint4",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "CINEMA_MANAGEMENT_SYSTEM.DTOs.UpdateGenreDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.GenreController",
+    "Method": "Delete",
+    "RelativePath": "api/Genre/EndPoint5",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.GenreController",
+    "Method": "EndPoint6",
+    "RelativePath": "api/Genre/EndPoint6",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.MovieController",
+    "Method": "GetAllMovies",
+    "RelativePath": "api/Movie/EndPoint1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.MovieController",
+    "Method": "GetByIdMovie",
+    "RelativePath": "api/Movie/EndPoint2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.MovieController",
+    "Method": "CreateMovie",
+    "RelativePath": "api/Movie/EndPoint3",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CINEMA_MANAGEMENT_SYSTEM.DTOs.CreateMovieDTOEndPoint3",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.MovieController",
+    "Method": "UpdateMovie",
+    "RelativePath": "api/Movie/EndPoint4",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "CINEMA_MANAGEMENT_SYSTEM.DTOs.UpdateMovieDTOEndPoint4",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.MovieController",
+    "Method": "Delete",
+    "RelativePath": "api/Movie/EndPoint5",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CINEMA_MANAGEMENT_SYSTEM.Controllers.MovieController",
+    "Method": "SearchByTitle",
+    "RelativePath": "api/Movie/EndPoint6",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\repo\\interfaces\\imovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\repo\\interfaces\\imovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\repo\\implmentation\\moviecustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\repo\\implmentation\\moviecustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\mapping\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\mapping\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\repo\\implmentation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\repo\\implmentation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\repo\\interfaces\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\repo\\interfaces\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\repo\\implmentation\\genrecustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\repo\\implmentation\\genrecustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\repo\\interfaces\\igenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\repo\\interfaces\\igenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\cinema management system\\cinema management system\\repo\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D17608E-D3EB-08BB-8BC8-0516AF13B755}|CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM.csproj|solutionrelative:cinema management system\\repo\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\MovieCustomRepo.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\MovieCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\MovieCustomRepo.cs*",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\MovieCustomRepo.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:22:39.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMovie.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IMovie.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IMovie.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IMovie.cs*",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IMovie.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:22:13.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Mapping\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\Mapping\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Mapping\\MapperProfile.cs",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\Mapping\\MapperProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T16:11:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\DTOs\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\DTOs\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\DTOs\\MovieDTO.cs",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\DTOs\\MovieDTO.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwEQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T16:10:26.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Controllers\\MovieController.cs*",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\Controllers\\MovieController.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:49:22.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\UnitOfWork.cs",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\UnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T20:39:09.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBooking.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IBooking.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IBooking.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IBooking.cs",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T20:37:45.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenreCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\GenreCustomRepo.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\GenreCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\GenreCustomRepo.cs",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\Repo\\Implmentation\\GenreCustomRepo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T20:32:01.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenre.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IGenre.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IGenre.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IGenre.cs",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T20:27:15.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\Repo\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T20:30:27.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Program.cs",
+              "RelativeDocumentMoniker": "CINEMA MANAGEMENT SYSTEM\\Program.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\CINEMA MANAGEMENT SYSTEM\\CINEMA MANAGEMENT SYSTEM\\Program.cs",
+              "RelativeToolTip": "CINEMA MANAGEMENT SYSTEM\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T20:07:42.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
